@@ -3,3 +3,40 @@
     background-color: rgb(31, 30, 30);
     margin: -8px;
 }
+.top {
+    width: 1318px;
+    margin: 10px -8px 2px -8px;
+    background-color:rgb(78, 78, 107);
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+.top:hover {
+    background-color:rgb(100, 100, 129); ;
+
+}
+#back:link{
+    color: white;
+    text-decoration: none;
+}
+#back:visited{
+    color: white;
+    text-decoration: none;
+}
+#footer {
+    background-color:rgb(78, 78, 107); ;
+    color: white;
+}
+.links:link {
+    color: white;
+    text-decoration: none;
+}
+.links:visited{
+    color: white;
+    text-decoration: none;
+}
+.links:hover{
+    text-decoration: underline;
+}
