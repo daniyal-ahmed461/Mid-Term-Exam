@@ -1,7 +1,62 @@
 
 .black {
-    background-color: rgb(31, 30, 30);
+    background-color: rgb(18, 22, 37);
     margin: -8px;
+    height: 60px;
+}
+#amazonpic {
+    padding: 6px 0px 0px 14px;
+}
+#deliverpic {
+    padding: 0px 0px 0px 5px;
+    vertical-align:1px ;
+}
+#all {
+    height: 40px;
+    width: 53px;
+    text-align: center;
+}
+#alla {
+    display: inline;
+    padding: 0px 0px 0px 6px;
+    vertical-align: 19px;
+}
+#searchbar {
+    height: 35px;
+    width: 615px;
+    margin-left: -6px;
+}
+#searchpic {
+    vertical-align: -16px;
+    height: 40px;
+}
+#languagepic {
+    padding: 0px 0px 0px 20px;
+    vertical-align: 3px;
+}
+#returnpic {
+    vertical-align: 6px;
+    padding: 0px 0px 0px 9px;
+}
+#cartpic {
+    vertical-align: 5px;
+    margin-left: 5px;
+}
+#navbar2 {
+    background-color: rgb(34, 45, 63);
+    color: white;
+    height: 40px;
+}
+#all2 {
+    display: inline;
+    margin: 0px 0px 0px 13px;
+    vertical-align: -22px;
+}
+.list {
+    display: inline;
+    vertical-align: -12px;
+    margin-left: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .top {
     width: 1318px;
