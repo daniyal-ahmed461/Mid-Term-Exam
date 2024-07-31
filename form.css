@@ -1,0 +1,25 @@
+#logo {
+    text-align: center;
+}
+#form {
+    width: 350px;
+    margin: 0px 0px 0px 500px;
+}
+#continue {
+    height: 30px;
+    width: 308px;
+    border: 1px solid rgb(241, 208, 57);
+    background-color: rgb(241, 208, 57);
+    border-radius: 8px;
+}
+#email {
+    height: 25px;
+    width: 300px;
+}
+fieldset {
+    border-radius: 10px;
+    border-color: rgb(221, 215, 215);
+}
+#newtoamazon {
+    text-align: center;
+}
