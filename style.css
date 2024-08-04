@@ -272,3 +272,92 @@
     width: 23%;
     /* margin-left: 20px; */
 }
+.top {
+    width: 1360px;
+    margin: 10px -8px 2px -8px;
+    background-color:rgb(76, 76, 104);;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+.top:hover {
+    background-color:rgb(88, 88, 126); ;
+
+}
+#back:link{
+    color: white;
+    text-decoration: none;
+}
+#back:visited{
+    color: white;
+    text-decoration: none;
+}
+#footer {
+    background-color:rgb(43, 43, 58);  ;
+    color: white;
+    margin-top: -2px;
+    margin-left: -8px;
+    margin-right: 0px;
+}
+.links:link {
+    color: white;
+    text-decoration: none;
+}
+.links:visited{
+    color: white;
+    text-decoration: none;
+}
+.links:hover{
+    text-decoration: underline;
+}
+.space {
+    padding-left: 100px;
+   
+}
+.space2 {
+    padding-left: 80px;
+}
+.space3 {
+    padding-left: 80px;
+}
+.space4 {
+    padding-left: 80px;
+}
+#padding {
+    padding-top: 50px;
+}
+#padding2{
+    padding-top: 50px;
+}
+#padding3 {
+    padding-top: 50px;
+}
+#padding4{
+    padding-top: 50px;
+}
+#footerb {
+    background-color: rgb(43, 43, 58); ;
+    margin: 1px 0px 0px -8px;
+    height: 110px;
+}
+#language2 {
+    height: 32px;
+    width: 120px;
+    background-color: rgb(43, 43, 58); ;
+    color: rgb(201, 195, 195);
+    margin: 0px 0px 0px 70px;
+    vertical-align: 14px;
+    border-radius: 4px;
+}
+#amazon2pic {
+    margin: 30px 0px 0px 350px;
+}
+#dollarpic {
+    margin-left: 2px;
+    vertical-align: -4px;
+}
+#unitedstatespic {
+    vertical-align: -4px;
+}
