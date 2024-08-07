@@ -67,32 +67,319 @@
     margin-left: 10px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-#cart3 {
-    display: inline;
-}
 body {
-    background-color: rgb(224, 231, 229);
+    background-color: rgba(204, 211, 209, 0.37)
 }
-#cart4 {
-    background-color: white;
-    display: inline-block;
-    width: 1000px;
+#cart1 {
     margin: 15px 0px 0px 20px;
+    height:250px ;
+    width:980px;
+    background-color: white;
+    color: black;
 }
-#h21 {
+#image1 { 
+    margin: 35px 0px 0px 15px;
+}
+#your {
     display: inline;
-    vertical-align: 160px;
+    vertical-align: 155px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 27px;
 }
-#image {
-    margin: 40px 0px 0px 20px;
+#shop {
+    margin-left: -308px;
+    vertical-align: 130px;
 }
-#cart5 {
-    margin-left: -300px;
- vertical-align: 135px ;
+#shop:link {
+    color: rgb(57, 89, 194);
+    text-decoration: none;
+}
+#shop:visited {
+    color: rgb(57, 89, 194);
+    text-decoration: none;
+}
+#shop:hover {
+    color: red;
+    text-decoration: underline;
 }
 #button1 {
-    margin-left: 350px;
-    vertical-align: 500px;
+    vertical-align:90px ;
+    margin-left: -310px;
+    background-color: rgb(241, 208, 57);
+    border-color: rgb(241, 208, 57);
+    border-radius: 15px;
+    height: 30px;
+    width: 200px;
+    border: 1px solid rgb(241, 208, 57);
+}
+#button2 {
+    vertical-align: 90px;
+    margin-left:  5px;
+    border-radius: 15px;
+    height: 30px;
+    width: 110px;
+    border: 1px solid;
+}
+#cart2 {
+    margin: 15px 0px 0px 20px;
+    height:70px ;
+    width:980px;
+    background-color: white;
+}
+#cart3 {
+    color: black;
+    margin: 15px 0px 0px 20px;
+    width: 980px;
+    font-size: 13px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#cart4 {
+    background-color: white;
+    height: 190px;
+    width: 1348px;
+    margin: 15px 0px 0px 0px;
+    color: black
+}
+#fieldset1 {
+    height: 130px;
+    border: 1px solid rgba(148, 145, 145, 0.623);
+}
+#cart5 {
+    text-align: center;
+}
+#button3 {
+    height: 30px;
+    width: 250px;
+    background-color:  rgb(241, 208, 57);
+    border: 1px solid  rgb(245, 146, 16);
+    border-radius: 5px;
+    margin-top: 3px;
+}
+#a2:link {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+#a2:visited {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#p1 {
+    font-size: 13px;
+    margin-top: 3px;
+}
+#p2 {
+    margin-top: 35px;
+}
+.top {
+    width: 1357px;
+    margin: 0px -8px 2px -8px;
+    background-color:rgb(76, 76, 104);;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 18px;
+    padding-bottom: 18px;
+
+}
+.top:hover {
+    background-color:rgb(88, 88, 126); ;
+
+}
+#back:link{
+    color: white;
+    text-decoration: none;
+}
+#back:visited{
+    color: white;
+    text-decoration: none;
+}
+#footer {
+    background-color:rgb(43, 43, 58);  ;
+    color: white;
+    margin-top: -2px;
+    margin-left: -8px;
+    margin-right: 0px;
+}
+.links:link {
+    color: rgb(179, 176, 176);
+    text-decoration: none;
+}
+.links:visited{
+    color: rgb(179, 176, 176);
+    text-decoration: none;
+}
+.links:hover{
+    text-decoration: underline;
+}
+.space {
+    padding-left: 190px;
+   
+}
+.space2 {
+    padding-left: 110px;
+}
+.space3 {
+    padding-left: 60px;
+}
+.space4 {
+    padding-left: 120px;
+}
+.space5 {
+    font-size: large;
+    padding-bottom: 10px;
+}
+.space6 {
+    padding-bottom: 10px;
+}
+.space7 {
+    padding-bottom: 10px;
+}
+.space8 {
+    padding-bottom: 10px;
+}
+.space9 {
+    padding-bottom: 10px;
+}
+.space10 {
+    padding-bottom: 10px;
+}
+.space11 {
+    padding-bottom: 10px;
+}
+.sapce12 {
+    padding-bottom: 10px;
+}
+.space13 {
+    padding-bottom: 10px;
+}
+#padding {
+    padding-top: 50px;
+}
+#padding2{
+    padding-top: 50px;
+}
+#padding3 {
+    padding-top: 50px;
+}
+#padding4{
+    padding-top: 50px;
+}
+#footerb {
+    background-color: rgb(43, 43, 58); ;
+    margin: 1px 0px 0px -8px;
+    height: 110px;
+}
+#language2 {
+    height: 32px;
+    width: 120px;
+    background-color: rgb(43, 43, 58); ;
+    color: rgb(201, 195, 195);
+    margin: 0px 0px 0px 70px;
+    vertical-align: 14px;
+    border-radius: 4px;
+}
+#amazon2pic {
+    margin: 30px 0px 0px 350px;
+}
+#dollarpic {
+    margin-left: 2px;
+    vertical-align: -4px;
+}
+#unitedstatespic {
+    vertical-align: -4px;
+}
+#footer2 {
+    background-color:rgb(18, 22, 37);
+    margin-top: 0px;
+    
+}
+.avail1 {
+    padding-left: 170px;
+    vertical-align: top;
+    font-size: small;
+}
+.avail2 {
+    padding-left: 60px;
+    vertical-align: top;
+    font-size: small;
+}
+.avail3 {
+    padding-left: 60px;
+    vertical-align: top;
+    font-size: small;
+}
+.avail4 {
+    padding-left: 40px;
+    vertical-align: top;
+    font-size: small;
+}
+.avail5 {
+    padding-left: 50px;
+    vertical-align: top;
+    font-size: small;
+}
+.avail6 {
+    padding-left: 50px;
+    vertical-align: top;
+    font-size: small;
+}
+.avail7 {
+    padding-left: 60px;
+    vertical-align: top;
+    font-size: small;
+}
+.avail8 {
+    padding-top: 30px;
+}
+.avail9 {
+    padding-top: 20px;
+}
+.avail10 {
+    padding-top: 20px;
+}
+.avail11 {
+    padding-top: 20px;
+}
+.links2:link {
+    text-decoration: none;
+    color: white;
+}
+.links2:visited {
+    text-decoration: none;
+    color: white;
+}
+.links2:hover {
+    color: white;
+    text-decoration: underline;
+}
+.Conditions {
+    vertical-align: -50px;
+    margin-left: 380px;
+    font-size: small;
+}
+.Privacy {
+    vertical-align: -50px;
+    margin-left: 20px;
+    font-size: small;
+}
+.Consumer {
+    vertical-align: -50px;
+    margin-left: 20px;
+    font-size: small;
+}
+.Your {
+    vertical-align: -50px;
+    margin-left: 20px;
+    font-size: small;
+}
+#p1 {
+    color: white;
+    margin-left: 550px;
+    font-size: small;
+    padding-bottom: 40px;
+}
+#truefalse {
+    vertical-align: -55px;
 }
